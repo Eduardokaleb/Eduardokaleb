@@ -11,7 +11,7 @@ Olá! Sou Eduardo Kaleb, estudante de Técnico em Informática na Fundatec, com 
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning: Estudando tec.informatica - Curso de Front-end<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
